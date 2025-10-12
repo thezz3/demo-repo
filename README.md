@@ -7,3 +7,5 @@ Some  description type skib
 
 
 new ts brnach??????
+## Local Development
+1. Open index.html in your browser.
